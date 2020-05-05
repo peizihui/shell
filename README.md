@@ -19,3 +19,5 @@
 
 7. docker  install mysql and backup mysql；
 
+8. docker rocket mq
+
